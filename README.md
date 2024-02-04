@@ -5,6 +5,7 @@
   <body>
     <script>
       alert("welcome ayan");
+      alert("welcome ayan");
     </script>
   </body>
 </html>
